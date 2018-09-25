@@ -1,3 +1,9 @@
 [submodule "ChatRoomProject"]
 	path = ChatRoomProject
 	url = https://github.com/ColePolychronis/ChatRoomProject.git
+[submodule "IslandHopperGame/IH_Backend"]
+	path = IslandHopperGame/IH_Backend
+	url = https://github.com/alaina-finley/Math_Nutz_BE.git
+[submodule "IslandHopperGame/IH_Frontend"]
+	path = IslandHopperGame/IH_Frontend
+	url = https://github.com/alaina-finley/Math_Nutz_FE.git
