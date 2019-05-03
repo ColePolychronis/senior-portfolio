@@ -25,7 +25,7 @@ I wanted to showcase this project in my senior portfolio for two key reasons, wi
 
 The other reason I chose to include this project in my portfolio is that it was also the most substantial experience I have had as far as working in a group setting. The sheer scale of this project meant that it was effectively impossible for one person to undertake, which forced clear communication of what each team member's role was and by extension, what everyone was responsible for getting done. This is something that my team and I were not very good at in the beginning, and as a result, the distribution of work was very unbalanced and the product we showcased for our first release suffered. However, we continued working on building these skills and using the tools available to us (such as Slack and GitHub) to communicate more effectively, and as a result, we had an almost perfect distribution of work between every member of our team and were able to showcase a finished product that we were proud of.
 
-### 3. [Virtual Memory Manager]()
+### 3. [Virtual Memory Manager](https://github.com/ColePolychronis/senior-portfolio/tree/master/VirtualMemoryManager)
 
 **Computer Science Learning Goals:**
 - acquire significant project experience working both individually and in a group setting (individual)
@@ -35,7 +35,7 @@ I worked on this project for my Operating Systems (CMPT 351) class at Westminste
 
 The reason that I chose to include this project in my portfolio is that I think this project is the single most important project I have worked on in terms of attaining a system level understanding of the computer. I was exposed to ideas like virtual addressing and pages in Computer Systems and Programming (CMPT 251), but in this class, we really had to take the time to understand them and their implementation in order to be successful on our assignments. This class really helped frame my understanding of how software is executed by the computer and why optimization/responsible use of resources provided by the computer is so important. Given this focus on using resources responsibly, I feel like this project was the culmination of everything that we had been learning in Operating System. 
 
-### 4. [Predicting Religion with Flags]()
+### 4. [Predicting Religion with Flags](https://github.com/ColePolychronis/senior-portfolio/tree/master/PredictingReligionWithFlags)
 
 I worked on this project for my Introduction to Data Mining (CMPT 300B) class at Westminster college. For this project, which was the final project for this class, a group of four of us, which I led, were told to find a dataset that we thought would be interesting to explore, and then build a predictive model on a meaningful response variable. We elected to use the UCI flag [dataset](https://archive.ics.uci.edu/ml/machine-learning-databases/flags/) and specifically, we set out to explore whether we could predict the religious majority of a country based on its flag. This project was largely focused on using some of the data science frameworks available in Python, such as sklearn and scipy, to create data visualization and build predictive models. 
 
