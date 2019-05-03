@@ -50,7 +50,7 @@ I worked on this project for my Computer Architecture (CMPT 328) class at Westmi
 
 My reason for including this presentation in my portfolio is that this project really helped me to develop my communication skills, especially in terms of communicating results from technical papers. This paper was incredibly dense, and also contained a lot of theory from physics which I was not very comfortable with. In order to understand this paper well enough to present it to the class, I had to look up about 10 other research papers that were either cited by this one or that explained principles that were central to the idea behind Single Electron Transistors. While this development in my communication skills was hugely important on its own, the experience of having to pick apart a research paper and then present it to others that had not read the paper is an experience that will serve my well as I move on to attending grad school at the University of Utah. While reading and presenting on this one paper certainly doesn't make me an expert on reading research papers, having some exposure to the process of reading a research paper for comprehension helped demistify the process for me.
 
-### 6. [Homework Helper - Senior Capstone Project]()
+### 6. [Homework Helper - Senior Capstone Project](https://github.com/ColePolychronis/homework_helper.git)
 
 **College-Wide Learning Goals:**
 - Creativity
