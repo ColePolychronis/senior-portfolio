@@ -59,7 +59,7 @@ When I was considering what I wanted to do for my computer science capstone proj
 
 This project was a clear choice for me to include in my senior portfolio, as it was the culmination of my computer science education at Westminster College and really forced me to grow as a developer and a data scientist. However, framing this project in terms of the College-Wide Learning Goals, I think that this project is also the project that I have worked on which best encapsulates the growth in my creativity since starting at Westminster. This project required me to synthesize my technical programming skills in computer programming with my analytical skills that I developed through my data science courses. The result of this synthesis is that I took a simple problem, budgeting time for homework more effectively, and approached it with a novel technique (data modeling) to create something genuinely new. 
 
-### 7. Tracing Coloniality's influence in Computer Science
+### 7. [Tracing Coloniality's influence in Computer Science](https://drive.google.com/file/d/1IsMcEnpabpRWFoS32SFUsKplT6rrRZKJ/view?usp=sharing)
 
 **College-Wide Learning Goals:**
 - Global Responsibility
