@@ -7,3 +7,6 @@
 [submodule "IslandHopperGame/IH_Frontend"]
 	path = IslandHopperGame/IH_Frontend
 	url = https://github.com/alaina-finley/Math_Nutz_FE.git
+[submodule "homework_helper"]
+	path = homework_helper
+	url = https://github.com/ColePolychronis/homework_helper.git
